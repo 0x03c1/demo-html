@@ -25,3 +25,11 @@ Abra o arquivo `index.html` diretamente no navegador ou use um servidor local:
 
 - Hospede em qualquer serviço de páginas estáticas (GitHub Pages, Netlify, Vercel).
 - Garanta que o caminho do CSS em `index.html` esteja correto.
+
+---
+
+~~Disclaimer [offtopic]~~
+
+> Use for example, [mail]([asd](https://temp-mail.org/en)) to generate mail temp deploy your application.
+
+> Deploy service in question my repository use was [netlify](https://www.netlify.com/).
