@@ -30,6 +30,6 @@ Abra o arquivo `index.html` diretamente no navegador ou use um servidor local:
 
 ~~Disclaimer [offtopic]~~
 
-> Use for example, [mail]([asd](https://temp-mail.org/en)) to generate mail temp deploy your application.
+> Use for example, [mail](https://temp-mail.org/en) to generate mail temp deploy your application.
 
 > Deploy service in question my repository use was [netlify](https://www.netlify.com/).
