@@ -1,0 +1,26 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+log/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Local build/preview tools
+.cache/
+dist/
+build/
+
+# Dependency directories (if tools are added later)
+node_modules/
+
+# Misc
+.env
+.env.*
+coverage/
+temp/
+tmp/
